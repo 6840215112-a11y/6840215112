@@ -1,0 +1,20 @@
+body {
+    background-color: #F0F8FF; /* เปลี่ยนพื้นหลังทั้งหน้าเว็บเป็นสีเทาอ่อน */
+}
+
+h1 {
+    background-color: MediumTurquoise; /* ไฮไลท์เฉพาะหัวข้อด้วยสีเหลือง */
+}
+p {
+    font-family: 'Arial', sans-serif; /* เปลี่ยนแบบอักษร */
+    font-size: 18px;                 /* ปรับขนาดตัวอักษร */
+    font-weight: bold;               /* ทำตัวหนา */
+    color: #000000;                  /* เปลี่ยนสีตัวอักษร */
+}
+h1 {
+    text-align: center; /* จัดหัวข้อให้อยู่กึ่งกลางหน้าจอ */
+}
+
+.footer-text {
+    text-align: right;  /* จัดข้อความให้อยู่ชิดขวา */
+}
